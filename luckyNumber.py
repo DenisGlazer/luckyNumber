@@ -1,5 +1,4 @@
 import random
-#newline
 def megaMillion():
   megaNumber = 0
   oneOfFive = 0
