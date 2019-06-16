@@ -52,9 +52,8 @@ def main():
 
 
     except Exception as e:
-        print('error error error')
+        print('some error')
         print(e)
 
 if __name__ == '__main__':
   main()
-
