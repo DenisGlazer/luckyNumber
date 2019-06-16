@@ -48,7 +48,7 @@ def main():
             else:
                 print("invalid input")
             uInp = raw_input("Type 'NO' if you don't want to play again, or type mega or power or super: ")
-        print('Bye-bye, see you next time')
+        print('See you next time! Bye-bye!')
 
 
     except Exception as e:
